@@ -1,6 +1,6 @@
 # TCCAlimentador
 
-
+Parte referênte a IA disponível em https://github.com/MrArthurP/PetRecognition
 
 ## Getting started
 
